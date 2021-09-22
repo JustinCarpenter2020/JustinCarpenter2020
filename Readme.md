@@ -1,7 +1,8 @@
-# Hey Freind
 
-My name is Justin Carpenter I'm a software developer 
+# Hey, I'm Justin Carpenter  
+I work as a software developer and senior teaching assistant at Codeworks here in Boise.
 
+Much like the students we teach, I'm constantly trying to grow and improve upon my skills. I have a passion for learning new technologies and integrating them with current languages/frameworks I know. 
 
 
 
@@ -14,3 +15,4 @@ My name is Justin Carpenter I'm a software developer
 
 ## Find me elsewhere
 www.linkedin.com/in/-justin-carpenter2020
+
